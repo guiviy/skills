@@ -1,0 +1,5 @@
+name: "orca_agent_orchestrator"
+title: "Orca Agent Orchestrator"
+description: "Run Orca, the desktop orchestrator for a fleet of CLI coding agents: parallel git worktrees, mobile companion, terminal splits, and design mode."
+category: "Work and knowledge"
+include_in_prompt: false

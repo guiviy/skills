@@ -1,0 +1,5 @@
+name: "security_audit_skill"
+title: "Cloudflare Security Audit Skill"
+description: "Run a multi-phase security audit on a codebase with a coding agent: reconnaissance, coverage-led hunting, candidate validation, structured findings, independent verification, and reporting."
+category: "Work and knowledge"
+include_in_prompt: false

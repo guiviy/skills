@@ -1,0 +1,5 @@
+name: "ruflo_agent_harness"
+title: "Ruflo Agent Harness"
+description: "Run Ruflo, the agent meta-harness for Claude Code and Codex: swarms, self-learning memory, federation, and the agent console."
+category: "Work and knowledge"
+include_in_prompt: false

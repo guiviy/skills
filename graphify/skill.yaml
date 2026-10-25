@@ -1,0 +1,5 @@
+name: "graphify_code_graph"
+title: "Graphify Code Knowledge Graph"
+description: "Map any codebase into a queryable knowledge graph with Graphify: local tree-sitter AST parsing, explain/path/query commands, and an agent skill."
+category: "Work and knowledge"
+include_in_prompt: false

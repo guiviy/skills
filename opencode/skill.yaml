@@ -1,0 +1,5 @@
+name: "opencode_coding_agent"
+title: "OpenCode AI Coding Agent"
+description: "Install and use OpenCode, the open-source terminal AI coding agent with build and plan agents, plus its desktop app."
+category: "Work and knowledge"
+include_in_prompt: false

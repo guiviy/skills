@@ -1,0 +1,5 @@
+name: "lip_sync_dubbing"
+title: "Lip Sync and AI Dubbing"
+description: "Give generated video clips matching dialogue with lip sync and AI voices, using ElevenLabs, Fish Audio, GPT-SoVITS, MuseTalk, LatentSync, or hosted lip sync services."
+category: "Work and knowledge"
+include_in_prompt: false

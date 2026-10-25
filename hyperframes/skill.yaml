@@ -1,0 +1,5 @@
+name: "hyperframes_html_video"
+title: "HyperFrames HTML-to-Video"
+description: "Make MP4 videos from HTML, CSS, and seekable animations with HyperFrames: CLI projects, agent skills, registry components, and rendering."
+category: "Work and knowledge"
+include_in_prompt: false

@@ -1,0 +1,5 @@
+name: "knowledge_work_plugins"
+title: "Anthropic Knowledge Work Plugins"
+description: "Install and use Anthropic's open-source Claude plugins for knowledge work: sales, support, product, marketing, legal, finance, data, enterprise search, and more."
+category: "Work and knowledge"
+include_in_prompt: false

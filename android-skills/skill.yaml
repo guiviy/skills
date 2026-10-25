@@ -1,0 +1,5 @@
+name: "android_skills"
+title: "Android Skills"
+description: "Use Google's official Android skills to help coding agents follow Android best practices: install via Android CLI or as an agent plugin, then prompt by task."
+category: "Work and knowledge"
+include_in_prompt: false

@@ -1,0 +1,5 @@
+name: "ai_memory_cross_agent"
+title: "ai-memory Cross-Agent Memory"
+description: "Give coding agents long-term, cross-agent memory with ai-memory: zero-LLM capture, git-backed markdown wiki, and claim-once handoffs between agents."
+category: "Work and knowledge"
+include_in_prompt: false

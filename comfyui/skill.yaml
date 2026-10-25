@@ -1,0 +1,5 @@
+name: "comfyui_node_generation"
+title: "ComfyUI Node Generation"
+description: "Generate images, video, audio, and 3D locally with ComfyUI's node graph: desktop app or comfy-cli install, workflow basics, model placement, and shortcuts."
+category: "Work and knowledge"
+include_in_prompt: false
