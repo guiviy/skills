@@ -1,0 +1,5 @@
+name: "voicestudio"
+title: "VoiceStudio Local Voice Studio"
+description: "Run VoiceStudio, the open-source fully-local ElevenLabs alternative: voice cloning, voice design, video dubbing, dictation, transcription, and audiobook creation in 646 languages."
+category: "Work and knowledge"
+include_in_prompt: false

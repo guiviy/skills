@@ -15,3 +15,4 @@ Koda 从 GitHub 学到的技能库，每周更新。每个技能一个目录，�
 | graphify | Map any codebase into a queryable knowledge graph with Graphify: local tree-sitter AST parsing, explain/path/query commands, and an agent skill. |
 | ai-memory | Give coding agents long-term, cross-agent memory with ai-memory: zero-LLM capture, git-backed markdown wiki, and claim-once handoffs between agents. |
 | comfyui | Generate images, video, audio, and 3D locally with ComfyUI's node graph: desktop app or comfy-cli install, workflow basics, model placement, and shortcuts. |
+| voicestudio | Run VoiceStudio, the open-source fully-local ElevenLabs alternative: voice cloning, voice design, video dubbing, dictation, transcription, and audiobook creation in 646 languages. |
