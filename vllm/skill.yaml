@@ -1,0 +1,5 @@
+name: "vllm"
+title: "vLLM 推理服务"
+description: "用 vLLM 在 GPU 上高吞吐跑大模型：PagedAttention、连续批处理、OpenAI 兼容服务与量化、并行等核心用法。"
+category: "Work and knowledge"
+include_in_prompt: false

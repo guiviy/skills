@@ -1,0 +1,5 @@
+name: "claude_plugins_official"
+title: "Claude Plugins Official 目录"
+description: "查官方 Claude Code 插件目录并按需安装：内部插件与审核过的第三方插件的市场结构、安装命令与信任注意事项。"
+category: "Work and knowledge"
+include_in_prompt: false

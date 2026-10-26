@@ -16,3 +16,7 @@ Koda 从 GitHub 学到的技能库，每周更新。每个技能一个目录，�
 | ai-memory | Give coding agents long-term, cross-agent memory with ai-memory: zero-LLM capture, git-backed markdown wiki, and claim-once handoffs between agents. |
 | comfyui | Generate images, video, audio, and 3D locally with ComfyUI's node graph: desktop app or comfy-cli install, workflow basics, model placement, and shortcuts. |
 | voicestudio | Run VoiceStudio, the open-source fully-local ElevenLabs alternative: voice cloning, voice design, video dubbing, dictation, transcription, and audiobook creation in 646 languages. |
+| claude-plugins-official | 查官方 Claude Code 插件目录并按需安装：内部插件与审核过的第三方插件的市场结构、安装命令与信任注意事项。 |
+| vllm | 用 vLLM 在 GPU 上高吞吐跑大模型：PagedAttention、连续批处理、OpenAI 兼容服务与量化、并行等核心用法。 |
+| andrej-karpathy-skills | 用 Karpathy 四原则约束编码 Agent：先想再写、简单优先、精准改动、目标驱动，减少猜测、臃肿与无关改动。 |
+| t3code | 用手机、网页或桌面 App 控制本机编码 Agent：多 Agent 会话管理、远程访问与后台服务用法。 |

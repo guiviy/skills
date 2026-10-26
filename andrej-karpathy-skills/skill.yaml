@@ -1,0 +1,5 @@
+name: "andrej_karpathy_skills"
+title: "Karpathy 编码指南"
+description: "用 Karpathy 四原则约束编码 Agent：先想再写、简单优先、精准改动、目标驱动，减少猜测、臃肿与无关改动。"
+category: "Work and knowledge"
+include_in_prompt: false

@@ -1,0 +1,5 @@
+name: "t3code"
+title: "T3 Code Agent 控制台"
+description: "用手机、网页或桌面 App 控制本机编码 Agent：多 Agent 会话管理、远程访问与后台服务用法。"
+category: "Work and knowledge"
+include_in_prompt: false
