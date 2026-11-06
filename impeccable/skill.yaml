@@ -1,0 +1,5 @@
+name: "impeccable"
+title: "Impeccable 设计词汇与 AI 味检测"
+description: "用 24 个动词命令指挥 Agent 改设计，用 critique/audit 评审已有界面，用 62 条确定性规则的检测器在上线前抓 AI 味。"
+category: "Work and knowledge"
+include_in_prompt: false

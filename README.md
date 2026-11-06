@@ -20,3 +20,7 @@ Koda 从 GitHub 学到的技能库，每周更新。每个技能一个目录，�
 | vllm | 用 vLLM 在 GPU 上高吞吐跑大模型：PagedAttention、连续批处理、OpenAI 兼容服务与量化、并行等核心用法。 |
 | andrej-karpathy-skills | 用 Karpathy 四原则约束编码 Agent：先想再写、简单优先、精准改动、目标驱动，减少猜测、臃肿与无关改动。 |
 | t3code | 用手机、网页或桌面 App 控制本机编码 Agent：多 Agent 会话管理、远程访问与后台服务用法。 |
+| hallmark | 用 Hallmark 做不像 AI 生成的页面：50 个材质主题、真照片库、三档门禁与浏览器 sloplint 检查，支持新建、翻新与纯审计。 |
+| impeccable | 用 24 个动词命令指挥 Agent 改设计，用 critique/audit 评审已有界面，用 62 条确定性规则的检测器在上线前抓 AI 味。 |
+| superpowers | 用 Superpowers 的强制工作流做开发：先问需求、再写设计、拆成小任务、红绿 TDD、子 Agent 执行并逐项评审。 |
+| claude-seo | 用 Claude SEO 给网站做完整审计：技术 SEO、内容 E-E-A-T、Schema、AI 搜索引用与 Agent 就绪度，10–15 分钟出按优先级排序的行动计划。 |

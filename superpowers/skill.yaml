@@ -1,0 +1,5 @@
+name: "superpowers"
+title: "Superpowers Agent 开发方法论"
+description: "用 Superpowers 的强制工作流做开发：先问需求、再写设计、拆成小任务、红绿 TDD、子 Agent 执行并逐项评审。"
+category: "Work and knowledge"
+include_in_prompt: false
