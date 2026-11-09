@@ -1,0 +1,5 @@
+name: "humanizer"
+title: "Humanizer 去 AI 味写作"
+description: "Remove signs of AI-generated writing from text: 26 patterns from Wikipedia's Signs of AI writing, rewritten to sound human without changing the meaning."
+category: "Work and knowledge"
+include_in_prompt: false

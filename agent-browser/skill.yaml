@@ -1,0 +1,5 @@
+name: "agent_browser"
+title: "Agent Browser — Browser Automation CLI for AI Agents"
+description: "Drive a real browser from the shell for AI agents: open pages, read them as an accessibility tree, and click, fill, screenshot, and verify step by step with agent-browser."
+category: "Work and knowledge"
+include_in_prompt: false

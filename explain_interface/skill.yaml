@@ -1,0 +1,5 @@
+name: "explain_interface"
+title: "Explain Interface 反向解析网站与动效"
+description: "Explain how a website, a visual effect or an animation was built, from a live URL or a screenshot: layer stacks in paint order, measured vs derived vs inferred claims, and a transferable recipe."
+category: "Work and knowledge"
+include_in_prompt: false

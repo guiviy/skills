@@ -1,0 +1,5 @@
+name: "spec_kit"
+title: "Spec Kit — Spec-Driven Development Toolkit"
+description: "Build with a spec first using GitHub Spec Kit: constitution, specify, plan, tasks, implement, converge, plus bug-fixing and idea-assessment processes for AI coding agents."
+category: "Work and knowledge"
+include_in_prompt: false

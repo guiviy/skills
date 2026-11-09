@@ -1,0 +1,5 @@
+name: "scrapling"
+title: "Scrapling — Python Web Scraping Framework"
+description: "Scrape public web data lawfully with Scrapling: fast HTTP and browser fetching, CSS/XPath parsing, concurrent spiders with pause/resume, Markdown export, and a CLI — with robots.txt, rate limits, and terms-of-service compliance built into the workflow."
+category: "Work and knowledge"
+include_in_prompt: false

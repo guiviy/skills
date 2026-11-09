@@ -24,3 +24,8 @@ Koda 从 GitHub 学到的技能库，每周更新。每个技能一个目录，�
 | impeccable | 用 24 个动词命令指挥 Agent 改设计，用 critique/audit 评审已有界面，用 62 条确定性规则的检测器在上线前抓 AI 味。 |
 | superpowers | 用 Superpowers 的强制工作流做开发：先问需求、再写设计、拆成小任务、红绿 TDD、子 Agent 执行并逐项评审。 |
 | claude-seo | 用 Claude SEO 给网站做完整审计：技术 SEO、内容 E-E-A-T、Schema、AI 搜索引用与 Agent 就绪度，10–15 分钟出按优先级排序的行动计划。 |
+| agent-browser | Drive a real browser from the shell for AI agents: open pages, read them as an accessibility tree, and click, fill, screenshot, and verify step by step with agent-browser. |
+| spec-kit | Build with a spec first using GitHub Spec Kit: constitution, specify, plan, tasks, implement, converge, plus bug-fixing and idea-assessment processes for AI coding agents. |
+| scrapling | Scrape public web data lawfully with Scrapling: fast HTTP and browser fetching, CSS/XPath parsing, concurrent spiders with pause/resume, Markdown export, and a CLI — with robots.txt, rate limits, and terms-of-service compliance built into the workflow. |
+| humanizer | Remove signs of AI-generated writing from text: 26 patterns from Wikipedia's Signs of AI writing, rewritten to sound human without changing the meaning. |
+| explain_interface | Explain how a website, a visual effect or an animation was built, from a live URL or a screenshot: layer stacks in paint order, measured vs derived vs inferred claims, and a transferable recipe. |
